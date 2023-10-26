@@ -6,7 +6,7 @@ package 动态规划;
 // 而且不能跨出红薯地，他可以获得经过的格子上所有的红薯，请问他可以获得最多的红薯个数
 public class MaxSourceMoveInBoard {
     public static void main(String[] args) {
-
+        
     }
 
     public static int process(int[][] map, int row, int col){
